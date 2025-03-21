@@ -118,10 +118,6 @@ Contributing: If you want others to contribute, add a contributing section with 
 
 Example Images/Videos: Include a screenshot or a short video demo of the system in action.
 
-How to Find the Actual README:
-
-Visit the GitHub repository: Go to https://github.com/akshaybahadur21/Drowsiness_Detection.
-
 Look for the README.md file: The README file is usually displayed on the repository's main page. If you don't see it, click on "Code" and look for a file named README.md in the file list.
 
 Copy the content: Copy the contents of the README.md file.
